@@ -1,0 +1,748 @@
+Uri: https://cdn.jsdelivr.net/npm/moment-hijri@2.1.2/moment-hijri.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\npm\moment-hijri@2.1.2\moment-hijri.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\npm\popper.js@1.16.0\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\ajax\libs\moment.js\2.24.0\moment-with-locales.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.6.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\jquery-1.6.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Cairo&display=swap
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600|Roboto:300,400,500,700
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cairo/v14/SLXVc1nY6HkvangtZmpcWmhzfH5lWWgcRiyX.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\cairo\v14\SLXVc1nY6HkvangtZmpcWmhzfH5lWWgcRiyX.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\opensans\v27\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\opensans\v27\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\opensans\v27\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\opensans\v27\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://jeddahds.com.sa/
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\index.htm
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Account/ForgotPassword
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Account\ForgotPassword.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Account/Login
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Account\Login.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Account/Register
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Account\Register.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Blogs/Details/10
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Blogs\Details\10.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Blogs/Details/7
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Blogs\Details\7.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Blogs/Details/8
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Blogs\Details\8.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Blogs/Details/9
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Blogs\Details\9.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Content/Blog/IMG-901720210201160232.JPG
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Blog\IMG-901720210201160232.JPG
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/Blog/Picture120210201160405.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Blog\Picture120210201160405.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/Blog/Picture220210201160557.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Blog\Picture220210201160557.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/Blog/Picture320210201160658.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Blog\Picture320210201160658.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/css/pages/login/login-4.rtl.css
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\css\pages\login\login-4.rtl.css
+Content Type: text/css
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/css/style.bundle.rtl.css
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\css\style.bundle.rtl.css
+Content Type: text/css
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/js/pages/custom/login/login-4.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\js\pages\custom\login\login-4.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/js/scripts.bundle.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\js\scripts.bundle.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/media/logos/jds-logo.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\media\logos\jds-logo.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/media/svg/illustrations/login-48.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\media\svg\illustrations\login-48.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/custom/prismjs/prismjs.bundle.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\custom\prismjs\prismjs.bundle.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/custom/prismjs/prismjs.bundle.rtl.css
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\custom\prismjs\prismjs.bundle.rtl.css
+Content Type: text/css
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-brands-400.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-brands-400.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-brands-400.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-brands-400.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-brands-400.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-brands-400.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-brands-400.woff2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-regular-400.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-regular-400.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-regular-400.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-regular-400.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-regular-400.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-regular-400.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-regular-400.woff2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-solid-900.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-solid-900.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-solid-900.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-solid-900.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-solid-900.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-solid-900.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/@fortawesome/fa-solid-900.woff2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\@fortawesome\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon/Flaticon.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon/Flaticon.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon/Flaticon.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon/Flaticon.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon\Flaticon.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon/Flaticon.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon\Flaticon.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon2/Flaticon2.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon2\Flaticon2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon2/Flaticon2.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon2\Flaticon2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon2/Flaticon2.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon2\Flaticon2.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon2/Flaticon2.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon2\Flaticon2.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/flaticon2/Flaticon2.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\flaticon2\Flaticon2.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/keenthemes-icons/Ki.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\keenthemes-icons\Ki.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/keenthemes-icons/Ki.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\keenthemes-icons\Ki-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/keenthemes-icons/Ki.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\keenthemes-icons\Ki.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/keenthemes-icons/Ki.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\keenthemes-icons\Ki.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/keenthemes-icons/Ki.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\keenthemes-icons\Ki.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-brands-400.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-brands-400.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-brands-400.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-brands-400.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-brands-400.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-brands-400.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-brands-400.woff2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-regular-400.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-regular-400.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-regular-400.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-regular-400.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-regular-400.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-regular-400.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-regular-400.woff2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-solid-900.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-solid-900.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-solid-900.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-solid-900.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-solid-900.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-solid-900.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/line-awesome/la-solid-900.woff2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\line-awesome\la-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/socicon/socicon.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\socicon\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/socicon/socicon.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\socicon\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/socicon/socicon.svg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\socicon\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/socicon/socicon.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\socicon\socicon.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/socicon/socicon.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\socicon\socicon.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/summernote/summernote.eot
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\summernote\summernote.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/summernote/summernote.eot?
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\summernote\summernote-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/summernote/summernote.ttf
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\summernote\summernote.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/summernote/summernote.woff
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\summernote\summernote.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/fonts/summernote/summernote.woff2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\fonts\summernote\summernote.woff2
+Content Type: application/font-woff2
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/plugins.bundle.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\plugins.bundle.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/Dashboard/dist/assets/plugins/global/plugins.bundle.rtl.css
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dashboard\dist\assets\plugins\global\plugins.bundle.rtl.css
+Content Type: text/css
+
+Uri: https://jeddahds.com.sa/Content/Dr_Mohamed.jpeg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Dr_Mohamed.jpeg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/favicon.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\favicon.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/css/style-5.css
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\css\style-5.css
+Content Type: text/css
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/css/theme.css
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\css\theme.css
+Content Type: text/css
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/fonts/icomoon/fonts/driving.eot?ha03s6
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\fonts\icomoon\fonts\driving.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/fonts/icomoon/fonts/driving.svg?ha03s6
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\fonts\icomoon\fonts\driving.svg
+Content Type: image/svg+xml
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/fonts/icomoon/fonts/driving.ttf?ha03s6
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\fonts\icomoon\fonts\driving.ttf
+Content Type: application/octet-stream
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/fonts/icomoon/fonts/driving.woff?ha03s6
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\fonts\icomoon\fonts\driving.woff
+Content Type: font/x-woff
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/ajax-loader.gif
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/box-step-item.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\box-step-item.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/car-limiter.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\car-limiter.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/car-logo.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\car-logo.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/car-wheel.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\car-wheel.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/carobj-arrow-down.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\carobj-arrow-down.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/carobj-mobile.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\carobj-mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/carobj.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\carobj.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/colorswatch-icon.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\colorswatch-icon.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/countdown-bg.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\countdown-bg.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/form-question.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\form-question.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/img-02.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\img-02.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/img-icon-01.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\img-icon-01.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/img-icon-02.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\img-icon-02.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/img-icon-03.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\img-icon-03.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/img-icon-04.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\img-icon-04.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/parallax-img-01.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\parallax-img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/parallax-img-02.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\parallax-img-02.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/parallax-img-03.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\parallax-img-03.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/slider/cv.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\slider\cv.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/social-services-bg.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\social-services-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-foter-bg.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-foter-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-foter-bg1.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-foter-bg1.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-img-01.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-img-01.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-promo-01.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-promo-01.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-promo-02-moving-bg.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-promo-02-moving-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-promo-02-text-bg.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-promo-02-text-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-promo-02-text-corner.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-promo-02-text-corner.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-promo-02-text-corner1.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-promo-02-text-corner1.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-promo-03-icon.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-promo-03-icon.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-promo-03.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-promo-03.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/images/tt-promo-04.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\images\tt-promo-04.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/custom.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\custom.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/bootstrap-datepicker/bootstrap-datepicker.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\bootstrap-datepicker\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/bootstrap.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/countdown/jquery.countdown.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\countdown\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/countdown/jquery.plugin.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\countdown\jquery.plugin.min.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/form/jquery.form-init-popup.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\form\jquery.form-init-popup.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/form/jquery.form.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\form\jquery.form.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/form/jquery.validate.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\form\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/imagesloaded.pkgd.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/instafeed.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\instafeed.min.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/jquery.countto.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\jquery.countto.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/jquery.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\jquery.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/jquery.parallax-scroll.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\jquery.parallax-scroll.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/masonry/AnimOnScroll.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\masonry\AnimOnScroll.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/masonry/classie.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\masonry\classie.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/masonry/imagesloaded.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\masonry\imagesloaded.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/masonry/masonry.pkgd.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\masonry\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/masonry/modernizr.custom.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\masonry\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/FrontEnd/js/vendor/slick.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\FrontEnd\js\vendor\slick.min.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/hijri/css/bootstrap-datetimepicker.css?v2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\hijri\css\bootstrap-datetimepicker.css
+Content Type: text/css
+
+Uri: https://jeddahds.com.sa/Content/hijri/js/bootstrap-hijri-datetimepicker.js?v2
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\hijri\js\bootstrap-hijri-datetimepicker.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/img6.jpg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/jQuery-Ticker/images/controls.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\jQuery-Ticker\images\controls.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/jQuery-Ticker/includes/jquery.ticker.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\jQuery-Ticker\includes\jquery.ticker.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/jQuery-Ticker/includes/site.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\jQuery-Ticker\includes\site.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Content/jQuery-Ticker/styles/ticker-style.css
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\jQuery-Ticker\styles\ticker-style.css
+Content Type: text/css
+
+Uri: https://jeddahds.com.sa/Content/Path/box-0120201118144422.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Path\box-0120201118144422.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/Path/box-0220201118143514.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Path\box-0220201118143514.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/Path/box-0420201118143608.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Path\box-0420201118143608.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/Path/box-0620201118143542.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\Path\box-0620201118143542.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/path1.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\path1.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/path2.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\path2.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/path3.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\path3.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Content/SpecialPaths.jpeg
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\SpecialPaths.jpeg
+Content Type: image/jpeg
+
+Uri: https://jeddahds.com.sa/Content/wd-log.png
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Content\wd-log.png
+Content Type: image/png
+
+Uri: https://jeddahds.com.sa/Home
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Home.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Home/
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Home\index.htm
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Home/About
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Home\About.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Home/Blog
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Home\Blog.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Home/Contact
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Home\Contact.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Home/FAQ
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Home\FAQ.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Home/Programs
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Home\Programs.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Home/Terms
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Home\Terms.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/HPaths/Details
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\HPaths\Details.html
+Content Type: text/html
+
+Uri: https://jeddahds.com.sa/Scripts/jquery.validate.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Scripts\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://jeddahds.com.sa/Scripts/jquery.validate.unobtrusive.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\Scripts\jquery.validate.unobtrusive.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\maps\api\js
+Content Type: text/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\bootstrap\4.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-1THE7W5X0S
+File Name: E:\Downloaded Web Sites\jeddahds.com.sa\gtag\js
+Content Type: application/javascript
+
